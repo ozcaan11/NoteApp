@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#f50057</color>
+
+    <!-- Color for Note Tag -->
+    <color name="colorBlue">#FF0000FF</color>
+    <color name="colorGreen">#FF008000</color>
+    <color name="colorOrange">#FFFFA500</color>
+    <color name="colorRed">#FFFF0000</color>
+    <color name="colorBlack">#FF000000</color>
+
+    <array name="color_array">
+        <item>@color/colorBlue</item>
+        <item>@color/colorGreen</item>
+        <item>@color/colorOrange</item>
+        <item>@color/colorRed</item>
+        <item>@color/colorBlack</item>
+    </array>
+
+
+
+    <color name="backgroundColor">#E8E8E0</color>
+    <color name="backgroundColorPress">#DBDBD3</color>
+
+
+</resources>
